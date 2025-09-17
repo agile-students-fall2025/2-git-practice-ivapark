@@ -9,4 +9,5 @@ I found the article informative, especially because it introduced me to tools I 
 That said, I still think these tools can be powerful allies. Used thoughtfully, they can free up time to work on creative, high-impact aspects of UI/UX instead of boilerplate implementation.
 
 
-
+### Saad's Comments
+* I also read through the article and learned some new AI tools I had not heard of previously. I found the AutonomyAI tool particularly interesting, especially how this tool could turn figma designs into production ready code. I remember hearing of these sorts of tools years ago and trying to use them, but they were typically very elementary. It's interesting how well this AI-powered software works at converting a design into reality. I also wonder how this would impact the demand for web developers.
