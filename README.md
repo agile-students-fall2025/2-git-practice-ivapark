@@ -8,5 +8,6 @@ I found the article informative, especially because it introduced me to tools I 
  
 That said, I still think these tools can be powerful allies. Used thoughtfully, they can free up time to work on creative, high-impact aspects of UI/UX instead of boilerplate implementation.
 
-
+I agree with the article and Iva on the idea that AI tools are transforming how developers are approaching frontend development and coding in general. I was resistant to using AI tools initially because I was worried that they might produce low-quality or incorrect code. However, after experimenting with a few, I found that in the correct hands, they can help any developer become more efficient and effective allowing them more time to focus on more complex problems. Of course, it’s still important to review and test any AI-generated code to ensure it meets quality standards.
+--- Terry Cao
 
