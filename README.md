@@ -9,4 +9,11 @@ I found the article informative, especially because it introduced me to tools I 
 That said, I still think these tools can be powerful allies. Used thoughtfully, they can free up time to work on creative, high-impact aspects of UI/UX instead of boilerplate implementation.
 
 
+## My Comment
 
+I found this article really thought-provoking. 
+
+Personally, I believe developers need to **adapt** by focusing on creativity, problem-solving, and building user experiences that AI alone can't deliver.  
+This shift represents both a challenge and an opportunity for the next generation of engineers.
+
+*Edited by:* **Sanna Moon**
